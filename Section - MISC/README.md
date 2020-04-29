@@ -7,7 +7,7 @@ Here get through
 - Const keyword and its use across programming languages
 - Creating Namespaces
 
-and many more....
+and many more.....
 
 Also a simple terminal based game is created combining the concepts you learnt in the course..
 
