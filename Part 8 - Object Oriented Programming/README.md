@@ -15,6 +15,10 @@ Here we will try and cover all those topics from scratch.
 Also we will cover
 - Structs : They are similar to classes but used in small scale problems
 - Multiple File Compilation : Creating headers, utility functions and a lot more.
+- Friend Functions
+- Templatized Classes
+- Constructors & Destructors
+- Operator Overloading
 
 # Basic Definitions
 
